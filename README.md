@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/sommus.svg" width="1200" alt="" />
+  <img src="svg/sommus.svg" width="1000" alt="" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
